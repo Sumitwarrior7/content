@@ -11,7 +11,7 @@ If you already have VS Code and Docker installed, you can click the badge above 
 
 # Cortex XSOAR Platform - Content Repository
 #### Demisto is now Cortex XSOAR.
-This repo contains content provided by Demisto to automate and orchestrate your Security Operations. Here we will share our ever-growing list of playbooks, automation scripts, report templates and other useful content.
+This repo contains content provided by Demisto, to automate and orchestrate your Security Operations. Here we will share our ever-growing list of playbooks, automation scripts, report templates and other useful content.
 
 We security folks love to tinker, keep enhancing and sharpening our toolset and we decided to open up everything and make it a collaborative process for the entire security community. We want to create useful knowledge and build flexible, customizable tools, sharing them with each other as we go along.
 
